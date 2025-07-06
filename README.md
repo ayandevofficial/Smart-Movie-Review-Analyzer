@@ -11,7 +11,7 @@ SmartMovieReviewAnalyzer/
 ├── README.md                           # Project documentation
 ├── requirements.txt                    # Python dependencies
 ├── .gitignore                          # Files to ignore in Git
-└── sample_outputs/                     # Screenshots or results (optional)
+
 ```
 
 ---
